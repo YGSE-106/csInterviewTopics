@@ -1,27 +1,27 @@
 # 🚩Tech Interview Topics
 
 
+### ☑️ OS
 
-
-#### ☑️ Network
-
-
-
-#### ☑️ DB
+### ☑️ Network
 
 
 
-#### ☑️ Java
+### ☑️ DB
 
 
 
-#### ☑️ Spring
+### ☑️ Java
 
 
 
-#### ☑️ Algorithm
+### ☑️ Spring
 
 
 
-#### ☑️ JS
+### ☑️ Algorithm
+
+
+
+### ☑️ JS
 
