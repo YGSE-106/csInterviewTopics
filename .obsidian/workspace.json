@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "CS Topics Kanban.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "CS Topics Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "CS Topics Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "CS Topics Kanban.md"
               }
             }
           },
@@ -153,10 +153,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f50466ad9364d339",
+  "active": "d2ed50ce9bccd6eb",
   "lastOpenFiles": [
     "README.md",
-    "Untitled Kanban.md",
+    "CS Topics Kanban.md",
     "CS Topics Kanban.md",
     "OS",
     "면접_복기",
