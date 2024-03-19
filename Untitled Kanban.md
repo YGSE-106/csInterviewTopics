@@ -4,6 +4,10 @@ kanban-plugin: basic
 
 ---
 
+## Java
+
+
+
 ## OS
 
 
@@ -16,11 +20,11 @@ kanban-plugin: basic
 
 
 
-## Java
-
-
-
 ## Spring
+
+
+
+## Algorithm
 
 
 

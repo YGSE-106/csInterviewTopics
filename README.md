@@ -1,2 +1,3 @@
-# 🚩CS Interview Topics
+# 🚩Tech Interview Topics
+
 
