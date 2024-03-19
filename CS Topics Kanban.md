@@ -1,3 +1,9 @@
+---
+
+kanban-plugin: basic
+
+---
+
 ## OS
 
 
@@ -6,18 +12,26 @@
 
 
 
+## DB
+
+
+
 ## Java
 
-- [ ] TEST
 
 
 ## Spring
 
 
 
-## DB
-
-
-
 ## JS
 
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%
