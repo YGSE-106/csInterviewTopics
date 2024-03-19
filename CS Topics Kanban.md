@@ -1,9 +1,3 @@
----
-
-kanban-plugin: basic
-
----
-
 ## OS
 
 
@@ -27,12 +21,3 @@ kanban-plugin: basic
 
 ## JS
 
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
