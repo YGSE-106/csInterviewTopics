@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "면접_복기/자바 백엔드 면접.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "면접_복기/자바 백엔드 면접.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "면접_복기/자바 백엔드 면접.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "면접_복기/자바 백엔드 면접.md"
               }
             }
           },
@@ -155,8 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2ed50ce9bccd6eb",
+  "active": "f50466ad9364d339",
   "lastOpenFiles": [
+    "README.md",
+    "면접_복기/자바 백엔드 면접.md",
     "Untitled",
     "JS",
     "Java_Spring",
@@ -164,7 +166,6 @@
     "Network",
     "OS",
     "CS Topics Kanban.md",
-    "README.md",
     "OS",
     "면접_복기",
     "Untitled.md"
