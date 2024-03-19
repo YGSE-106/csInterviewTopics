@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "29fa503d257ec6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ec069428097ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50466ad9364d339",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CS Topics Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "006265c0fa8d75fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c971bd7f2a1818a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ed50ce9bccd6eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14645369534c256f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33f4543f47c5cc8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e39e371b762ea8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c65bf0796a680f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b343994c733283",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS Topics Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e7645365053162",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS Topics Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7674db30bdd523a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e807d1492063af16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS Topics Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "16edf3560cbc17fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f50466ad9364d339",
+  "lastOpenFiles": [
+    "README.md",
+    "CS Topics Kanban.md",
+    "OS",
+    "면접_복기",
+    "Untitled.md"
+  ]
+}
